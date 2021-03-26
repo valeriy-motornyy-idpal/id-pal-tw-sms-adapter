@@ -1,5 +1,5 @@
 {
-    "name": "twilio/aloha-id-pal",
+    "name": "aloha/id-pal",
     "description": "Twilio API for Laravel",
     "type": "library",
     "keywords": ["sms", "ivr", "laravel", "twilio"],
@@ -13,7 +13,7 @@
             "email": "vandevreken.hannes@gmail.com"
         }
     ],
-    "homepage":"https://github.com/valeriy-motornyy-idpal/laravel-twilio",
+    "homepage":"https://github.com/valeriy-motornyy-idpal/laravel-aloha-id-pal",
     "license": "MIT",
     "require": {
         "php": "^8.0",
