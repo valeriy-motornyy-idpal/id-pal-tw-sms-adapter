@@ -1,5 +1,5 @@
 {
-    "name": "tw-sms-adapter/id-pal",
+    "name": "id-pal/tw-sms-adapter",
     "description": "Twilio API for Laravel",
     "type": "library",
     "keywords": ["sms", "ivr", "laravel", "twilio"],
