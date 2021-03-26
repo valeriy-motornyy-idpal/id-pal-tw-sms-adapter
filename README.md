@@ -12,7 +12,7 @@ Laravel Twilio API Integration
 Begin by installing this package through Composer. Run this command from the Terminal:
 
 ```bash
-composer require aloha/twilio
+composer require id-pal/tw-sms-adapter
 ```
 
 This will register two new artisan commands for you:
