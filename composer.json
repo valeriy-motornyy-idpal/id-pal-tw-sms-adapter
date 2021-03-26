@@ -13,7 +13,7 @@
             "email": "vandevreken.hannes@gmail.com"
         }
     ],
-    "homepage":"https://github.com/valeriy-motornyy-idpal/laravel-aloha-id-pal",
+    "homepage":"https://github.com/valeriy-motornyy-idpal/id-pal-tw-sms-adapter",
     "license": "MIT",
     "require": {
         "php": "^8.0",
