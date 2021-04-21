@@ -16,7 +16,7 @@
     "homepage":"https://github.com/valeriy-motornyy-idpal/id-pal-tw-sms-adapter",
     "license": "MIT",
     "require": {
-        "php": "^8.0",
+        "php": "^8.0 || ^7.1",
         "twilio/sdk": "^6.19"
     },
     "require-dev": {
